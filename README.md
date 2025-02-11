@@ -1,6 +1,5 @@
 <img src = "https://media.licdn.com/dms/image/v2/D5616AQH4YuoNd23l1Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711599017890?e=1744848000&v=beta&t=BDPn9kmmT6yinRIyKJ6nBNqh7l4hYgFqFkez8iZNHAE"></img>
 
-
 <h2 align="left">Hi 👋! My name is Sujal Nimje and I'm a Full Stack Web Developer</h2>
 
 ###
@@ -55,6 +54,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/devsujal/devsujal/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
