@@ -1,15 +1,64 @@
-<img src = "https://media.licdn.com/dms/image/v2/D5616AQH4YuoNd23l1Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711599017890?e=1744848000&v=beta&t=BDPn9kmmT6yinRIyKJ6nBNqh7l4hYgFqFkez8iZNHAE"></img>
-
-<h2 align="left">Hi 👋! My name is Sujal Nimje and I'm a Full Stack Web Developer</h2>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsujal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsujal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+# 👨‍💻 DevSujal
+
+### Time is an illusion, coding time doubly so...
+#### `Last Updated: 2025-02-18 08:22:06 IST`
+
 </div>
 
-###
+```
+ .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. |
+| |    _______   | || |   _      _   | || |  ________    | || |     ____     | |
+| |   /  ___  |  | || |  | |    | |  | || | |_   ___ `.  | || |   .'    `.   | |
+| |  |  (__ \_|  | || |  | |    | |  | || |   | |   `. \ | || |  /  .--.  \  | |
+| |   '.___`-.   | || |  | |    | |  | || |   | |    | | | || |  | |    | |  | |
+| |  |`\____) |  | || |  | |____| |  | || |  _| |___.' / | || |  \  `--'  /  | |
+| |  |_______.'  | || |   \______/   | || | |________.'  | || |   `.____.'   | |
+| |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------' 
+```
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/DevSujal/count.svg)
+
+</div>
+
+## 🌟 About the Developer Behind the Screen
+
+```python
+class DevSujal:
+    def __init__(self):
+        self.role = "Software Alchemist 🧪"
+        self.location = "Somewhere in the Digital Universe 🌌"
+        self.coffee_count = 0
+        self.debugging = True
+    
+    def daily_routine(self):
+        while self.debugging:
+            self.coffee_count += 1
+            if self.coffee_count > 5:
+                print("Time to write some bugs... I mean features!")
+                break
+```
+
+## 🎯 Current Quest Log
+
+```javascript
+const currentQuests = {
+  main: "Crafting elegant solutions to complex problems",
+  side: [
+    "Debugging the matrix",
+    "Teaching computers to be more human",
+    "Searching for the perfect code formatting style"
+  ],
+  progress: "▓▓▓▓▓▓▓░░░ 70%"
+};
+```
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -36,6 +85,55 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
+## 🛠️ Weapons of Choice
+
+<div align="center">
+
+| Spell Category | Incantations |
+|---------------|--------------|
+| 🔮 Languages | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| ⚡ Frameworks | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| 🏰 Infrastructure | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+
+</div>
+
+## 📊 Achievement Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSujal&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevSujal&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🎮 Let's Connect and Code Together!
+
+```json
+{
+  "social_links": {
+    "github": "https://github.com/DevSujal",
+    "twitter": "@DevSujal",
+    "linkedin": "in/DevSujal"
+  },
+  "status": {
+    "currently": "Turning coffee into code",
+    "availability": "Open to interesting projects and collaborations"
+  }
+}
+```
+
+<div align="center">
+
+*"The only way to do great work is to love what you do."* - Steve Jobs
+
+⭐️ From [DevSujal](https://github.com/DevSujal) with 💻 and ☕️
+
+</div>
+
+
+
 
 ###
 
